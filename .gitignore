@@ -1,0 +1,6 @@
+# Blacklist para todo los archivos de home
+*
+
+# archivos permitidos para zsh
+!.gitignore
+!.zshrc
